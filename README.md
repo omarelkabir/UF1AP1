@@ -1,5 +1,5 @@
 # UF1AP1
-AP. Creació d’una aplicació d’administració d’incidències (Ticketing)
+AP. Creació d’una aplicació d’administració d’incidències (Ticketing) PHP & MySQL
 
 1. connect_db.php -> Canviar usuari i password mysql 
 2. importar base de dades ticketing.sql a phpmyadmin i afegir privilegis
