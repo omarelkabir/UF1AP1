@@ -5,9 +5,10 @@ AP. Creació d’una aplicació d’administració d’incidències (Ticketing) 
 2. importar base de dades ticketing.sql a phpmyadmin i afegir privilegis
 3. Donar permisos a la carpeta chmod -R 777 (per aquest cas) si no fer-ho directament al historic
 
+(Les credencials es guarden en MD5 en la base de dades)
 Usuari admin:
 admin@gmail.com
-123456
+123456 
 
 oelkabir@gmail.com
 123456
