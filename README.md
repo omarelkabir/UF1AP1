@@ -1,8 +1,8 @@
 # UF1AP1
 AP. Creació d’una aplicació d’administració d’incidències (Ticketing)
 
-1. connect_db.php -> Canviar usuari i assignar nom de base de datos en cas de canviar-ho
-2. importar bd ticketing.sql a phpmyadmin i afegir privilegis d'usuari
+1. connect_db.php -> Canviar usuari i password mysql 
+2. importar base de dades ticketing.sql a phpmyadmin i afegir privilegis
 3. Donar permisos a la carpeta chmod -R 777 (no es recomanable per que es dona accés a tot, pero jo l'he fet aixi per aquest cas) si no fer-ho directament al historic
 
 Usuari admin:
