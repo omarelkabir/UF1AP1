@@ -12,5 +12,9 @@ admin@gmail.com
 oelkabir@gmail.com
 123456
 
-También hay usuarios de muestra el password tambien es 123456
+Estudiant:
+También hay usuarios de muestra que he creado anteriormente con el rol estudiante el password tambien es 123456 student@gmail.com
 
+Profes:
+teacher@gmail.com
+123456
